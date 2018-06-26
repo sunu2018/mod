@@ -54,7 +54,7 @@ cl.loginResult()
 #ki10.login(token="EoQW0fWuribDJDJRBTCa.XIBZSHhwVEi2szZJfJwo/G.0Vu2NC0IMsGRgSttKg/vSJz9ngGwx/lGkaqdUqt1GgM=")
 #ki10.loginResult()
 
-print "login success"
+print ("login success")
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMessage ="""By:Ҩఖণಖஇ↭ধัюӄՁ่গს
